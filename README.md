@@ -13,17 +13,17 @@ Since I am a beginner in Python, the code has problems such as bloat and ineffic
 
 
 # Game process 游戏过程
-1. Automatically draw 4 poker cards at the beginning
+1.  Automatically draw 4 poker cards at the beginning
 
-开局自动抽取4张扑克
+    开局自动抽取4张扑克
 
 3.  Determine whether to draw cards
 
-判定是否补牌
+    判定是否补牌
 
 5.  Compare the banker and player points
 
-判断两家点数大小
+    判断两家点数大小
 
 
 # Code analysis 代码简析
@@ -43,4 +43,5 @@ Since I am a beginner in Python, the code has problems such as bloat and ineffic
 
 # Statement 声明
 This program is only for communication and learning of Python programs. No one may use it to violate local regulations.
+
 本程序仅供Python程序交流学习，任何人不得用于违反当地法规
