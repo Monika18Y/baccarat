@@ -8,7 +8,7 @@ suits = ['黑桃一   ', '红心一   ', '梅花一   ', '方块一   ', '黑桃
          '黑桃七   ', '红心七   ', '梅花七   ', '方块七   ', '黑桃八   ', '红心八   ', '梅花八   ',
          '方块八   ']  # 定义扑克牌的花色和点数
 ranks = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A']  # 定义扑克牌的点数
-deck = [suit + rank for suit in suits for rank in ranks]  # 生成一副完整的扑克牌
+deck = [suit + rank for suit in suits for rank in ranks]  # 生成八副完整的扑克牌
 remaining_deck = deck.copy()  # 复制一副扑克牌，用于剩余的牌
 
     # 校正数值并判定大小函数
