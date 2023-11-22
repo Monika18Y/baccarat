@@ -4,17 +4,25 @@ Implement baccarat game based on Python
 
 # Introduce 介绍
 This program basically implements the card dealing of the Baccarat game. The game rules are taken from the relevant entries in Wikipedia and are basically the same as the Macau gameplay.
+
 本程序基本实现了百家乐游戏的发牌，游戏规则取自维基百科中相关词条，与澳门玩法基本无异
+
 Since I am a beginner in Python, the code has problems such as bloat and inefficiency in many places. I welcome your criticisms and corrections. Thank you.
+
 由于本人是python初学者，因此代码在很多地方存在臃肿低效等问题，欢迎大家批评指正，谢谢
 
 
 # Game process 游戏过程
 1. Automatically draw 4 poker cards at the beginning
+
 开局自动抽取4张扑克
-2.  Determine whether to draw cards
+
+3.  Determine whether to draw cards
+
 判定是否补牌
-3.  Compare the banker and player points
+
+5.  Compare the banker and player points
+
 判断两家点数大小
 
 
